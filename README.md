@@ -1,2 +1,1 @@
-# DADS5001_6420412006
-miniproject
+# Analysis of Thailand's imports
