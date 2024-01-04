@@ -27,6 +27,8 @@ Q2 : What group of products does Thailand import with the highest value and what
 
 ![image](https://github.com/nacknatthawit/Thailand-s-imports-analysis/assets/115746160/d656f3b9-cb16-48a8-a330-56a30ebcb2b2)
 
+It was found that the group with the highest proportion and average import value over the past 5 years was:
+
 ## Problem and challenge
 
 1. The analysis relies on time series data pertaining to a singular subject, posing challenges in comprehensive evaluation. To enhance the analysis, it is deemed necessary to augment the dataset with additional information, such as data on the importation of goods. A comparative assessment between Thailand and other countries or regions would facilitate the identification of diverse insights into the origins and types of imported products. This broader information spectrum is considered essential for more effective predictive analysis.
