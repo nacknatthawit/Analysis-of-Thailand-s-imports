@@ -6,6 +6,8 @@ Dataset : Value of Thailand's imports of goods from around the world during 2002
 
 Q1 : How has the behavior of importing products in Thailand evolved from the past to the present?
 
+![image](![image](https://github.com/nacknatthawit/Thailand-s-imports-analysis/assets/115746160/ad10d0e9-ec46-4633-abee-f853001adafe))
+
 Q2 : What group of products does Thailand import with the highest value and what is the proportion?
 
 ## Problem and challenge
