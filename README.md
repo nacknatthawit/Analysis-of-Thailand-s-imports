@@ -29,6 +29,23 @@ Q2 : What group of products does Thailand import with the highest value and what
 
 It was found that the group with the highest proportion and average import value over the past 5 years was:
 
+1. Electrical machinery and equipment or electrical machinery, electrical equipment and related components with the proportion of imports
+The average is 19% compared to All and calculated as a value 45,572,908,400 US dollar This group of products has an upward trend. has been clearly seen in the past 10 years.
+
+2. Mineral fuels, mineral oils and products of their distillation or fuels, water, oil and products From that trick with the proportion
+The average import rate is 15% compared to All of them are worth it. 36,435,056,800 US dollars
+
+3. Machinery, mechanical appliances, nuclear reactors, boilers or machinery, equipment, nuclear reactors and boilers
+with the proportion of The average import rate is 11.99% compared to All and calculated as a value 28,541,446,600 US dollars
+
+4. Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles or
+natural pearls or cultured pearls, anaya stones, gemstones or amulets of anaya stones Precious metal gemstone, metal covered with metal fatigue Value and items With the above mentioned items, there is a proportion of
+The average import rate is 5.35% compared to All and calculated as a value 12,805,070,600 US dollars
+
+5. Iron and steel or iron and steel with the proportion of The average import rate is 4.98% compared to All and all cases are valued.
+11,970,993,600 US dollar This group of products is imported has greatly increased in 2021 compared to 2020 due to the year In the past, iron and steel were expensive.
+which is higher according to world market prices
+
 ## Problem and challenge
 
 1. The analysis relies on time series data pertaining to a singular subject, posing challenges in comprehensive evaluation. To enhance the analysis, it is deemed necessary to augment the dataset with additional information, such as data on the importation of goods. A comparative assessment between Thailand and other countries or regions would facilitate the identification of diverse insights into the origins and types of imported products. This broader information spectrum is considered essential for more effective predictive analysis.
